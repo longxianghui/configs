@@ -1,0 +1,6 @@
+
+eureka: 
+    client: 
+        serviceUrl: http://localhost:5000/eureka/
+    instance:
+        port: 8070
