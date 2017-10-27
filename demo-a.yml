@@ -1,4 +1,3 @@
-
 eureka: 
     client: 
         serviceUrl: http://localhost:5000/eureka/
